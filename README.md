@@ -4,24 +4,24 @@
 This project seeks to predict sleep disorders by leveraging machine learning based on a comprehensive dataset containing 374 in raw data & 100,000 records in synthetic data.The dataset comprises 13 key variables, categorized as follows:
 
 1. Demographics: 👤
--Person ID: Unique identifier for each individual.
-Gender: 🚻 (Male/Female)
-Age: 📅 (Years)
-Occupation: 💼 (e.g., Software Engineer, Doctor, Teacher)
-BMI Category: 📏 (Underweight, Normal, Overweight, Obese)
+- Person ID: Unique identifier for each individual.
+- Gender: 🚻 (Male/Female)
+- Age: 📅 (Years)
+- Occupation: 💼 (e.g., Software Engineer, Doctor, Teacher)
+- BMI Category: 📏 (Underweight, Normal, Overweight, Obese)
 
 3. Cardiovascular Health: ❤️
-Blood Pressure: 🌡️ (Systolic/Diastolic)
-Heart Rate: 💓 (Beats per minute)
+- Blood Pressure: 🌡️ (Systolic/Diastolic)
+- Heart Rate: 💓 (Beats per minute)
 
 4. Lifestyle: 🏃‍♀️
-Physical Activity Level: ⏱️ (Minutes per day)
-Stress Level: 😟 (Scale of 1 to 10)
-Daily Steps: 🚶 (Number of steps)
+- Physical Activity Level: ⏱️ (Minutes per day)
+- Stress Level: 😟 (Scale of 1 to 10)
+- Daily Steps: 🚶 (Number of steps)
 
 5. Sleep-Related Factors: 💤
-Sleep Duration: ⏰ (Hours per day)
-Quality of Sleep: ⭐ (Scale of 1 to 10)
+- Sleep Duration: ⏰ (Hours per day)
+- Quality of Sleep: ⭐ (Scale of 1 to 10)
 
 6. Sleep Disorder: 🤕 (None, Insomnia, Sleep Apnea) - Target Variable
 
