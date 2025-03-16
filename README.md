@@ -36,6 +36,6 @@ This project seeks to predict sleep disorders by leveraging machine learning bas
 > - To run the original sleep data script,please use the "01_sleep_health_and_lifestyle_dataset.csv" as an input file.
 > - To run the synthetic sleep data script,please use the "02_sleep_health_lifestyle_synthetic.csv" as an input file.
 
-Acknowledgments
+### Acknowledgments
 A heartfelt thank you to all contributors and our mentor for their valuable insights and guidance throughout this project.
 
