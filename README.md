@@ -1,6 +1,7 @@
-## Techlabs Düsseldorf Data Science Track - Team 2 
+## Techlabs Düsseldorf Data Science Track - Team 2
+### Sezin Dogan and Jacquelyne Sonda 
+
 ## Project: Predicting Sleep Disorder 
-### By Sezin Dogan and Jacquelyne Sonda 
 This project seeks to predict sleep disorders by leveraging machine learning based on a comprehensive dataset containing 374 in raw data & 100,000 records in synthetic data.The dataset comprises 13 key variables, categorized as follows:
 
 1. Demographics: 👤
