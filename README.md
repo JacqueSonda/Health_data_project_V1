@@ -2,7 +2,7 @@
 ### Sezin Dogan and Jacquelyne Sonda 
 
 ## Project: Predicting Sleep Disorder 
-This project seeks to predict sleep disorders by leveraging machine learning based on a comprehensive dataset containing 374 in raw data & 100,000 records in synthetic data.The dataset comprises 13 key variables, categorized as follows:
+This project seeks to predict sleep disorders by leveraging machine learning based on a comprehensive dataset containing 374 in original data & 100,000 records in synthetic data.The dataset comprises 13 key variables, categorized as follows:
 
 1. Demographics: 👤
 - Person ID: Unique identifier for each individual.
