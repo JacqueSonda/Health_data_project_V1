@@ -28,5 +28,5 @@ This project seeks to predict sleep disorders by leveraging machine learning bas
 
 - Categorical variables, such as gender and BMI category, were encoded using binary and ordinal encoding methods to make them suitable for machine learning algorithms. The data was then split into training (80%) and testing (20%) subsets to evaluate model performance effectively.
 - Histograms and boxplots were used to visualize the distribution of key variables.We implemented two classification models, including Logistic Regression and Random Forest. Each model was trained and evaluated. The Random Forest model stood out for its ability to handle complex relationships between features and deliver high accuracy achieving an accuracy of 93%.
->  Blood pressure, BMI category, and age were identified as the most influential predictors of sleep disorders.
+>  Blood pressure, BMI category, and age were identified as the most influential predictors of sleep disorders by the model random forest.
 
