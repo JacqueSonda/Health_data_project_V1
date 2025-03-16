@@ -30,10 +30,9 @@ This project seeks to predict sleep disorders by leveraging machine learning bas
 - Histograms and boxplots were used to visualize the distribution of key variables.We implemented two classification models, including Logistic Regression and Random Forest. Each model was trained and evaluated. The Random Forest model stood out for its ability to handle complex relationships between features and deliver high accuracy achieving an accuracy of 93%.
 >  Blood pressure, BMI category, and age were identified as the most influential predictors of sleep disorders by the model random forest.
 
-Requirements
- Jupyter Notebook: 7.2.2 Packages: Pandas, Numpy, Seaborn, Plotly, Matplotlib.pyplot,  Sklearn 
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
+>  - Requirements: Jupyter Notebook: 7.2.2 Packages: Pandas, Numpy, Seaborn, Plotly, Matplotlib.pyplot,  Sklearn 
 > - To run the original sleep data script,please use the "01_sleep_health_and_lifestyle_dataset.csv" as an input file.
 > - To run the synthetic sleep data script,please use the "02_sleep_health_lifestyle_synthetic.csv" as an input file.
 
